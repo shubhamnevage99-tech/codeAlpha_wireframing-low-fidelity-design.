@@ -1,7 +1,7 @@
 # codeAlpha_wireframing-low-fidelity-design.
 Low Fidelity Mobile App designed in Figma for the CodeAlpha UI/UX Design Internship. Includes Login, Home, Course Details, and Profile screens with a clean, user-friendly interface and interactive prototype.
 
-# Code Alpha Task 1 - Low Fidelity Design
+# Code Alpha- Low Fidelity Design
 ## 📌 Project Overview
 This project is a **Low Fidelity Mobile App design** created using **Figma** as part of the **CodeAlpha UI/UX Design Internship**. The prototype demonstrates the basic structure and navigation flow of a mobile learning application before moving to high-fidelity design.
 
